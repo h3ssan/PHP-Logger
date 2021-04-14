@@ -1,0 +1,6 @@
+[Info] [15-04-2021 02:26:03 AM]:
+	 Log file created [./mainLogger.log].
+
+[Error] [15-04-2021 02:26:03 AM] in [/home/hassan/programming/php/classes/main.php] in line [9]:
+	 test error logged.
+
